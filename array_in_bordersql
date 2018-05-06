@@ -22,4 +22,3 @@ function array_elem()
 }
 
 $mass = new (massive_array);
-?>
