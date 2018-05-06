@@ -21,4 +21,4 @@ class array_in_bordersql
 	}
 }
 
-$mass = new (massive_array);
+$mass = new (array_in_bordersql);
