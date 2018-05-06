@@ -1,0 +1,25 @@
+<?php
+class massive_array
+{
+    public $mass_array = array('pavel', 'aleksei', 'petya');
+    public $array;
+    public $border='';
+    public $str= strlen($array);
+
+function tabledrop()
+{
+    for(;*str;++str)
+{
+     echo "+".$border."+";
+}
+}
+function array_elem()
+{
+ for(enumeration of array elements){
+    echo "| ".$array." |";
+}
+}
+}
+
+$mass = new (massive_array);
+?>
