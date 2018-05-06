@@ -6,19 +6,19 @@ class array_in_bordersql
     public $border='';
     public $str= strlen($array);
 
-	public function tabledrop()
-	{
-		for(;*str;++str){
-			echo "+".$border."+";
-		}
-	}
+    public function tabledrop()
+    {
+        for(;*str;++str){
+        echo "+".$border."+";
+        }
+    }
 
-	public function array_elem()
-	{
- 		for(enumeration of array elements){
-			echo "| ".$array." |";
-		}
-	}
+    public function array_elem()
+    {
+        for(enumeration of array elements){
+            echo "| ".$array." |";
+        }
+    }
 }
 
 $mass = new (array_in_bordersql);
