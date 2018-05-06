@@ -1,5 +1,5 @@
 <?php
-class array_in_bordersql
+class ArrayToCli
 {
     public $mass_array = array('key_1'=>'pavel', 'key_2'=>'aleksei','key_3'=>'petya');
     public $array;
