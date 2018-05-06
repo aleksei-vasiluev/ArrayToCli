@@ -21,4 +21,4 @@ class ArrayToCli
     }
 }
 
-$mass = new array_in_bordersql();
+$mass = new ArrayToCli();
