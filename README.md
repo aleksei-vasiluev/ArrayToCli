@@ -5,4 +5,4 @@
 Пример:
 $massive = array('pavel','petya','aleksei');
 
-include 'class.ArrayToCli.php';
+include 'https://github.com/aleksei-vasiluev/ArrayToCli/blob/master/ArrayToCli.php';
