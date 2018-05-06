@@ -1,5 +1,5 @@
 <?php
-class massive_array
+class array_in_bordersql
 {
     public $mass_array = array('pavel', 'aleksei', 'petya');
     public $array;
