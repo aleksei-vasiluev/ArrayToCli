@@ -6,19 +6,19 @@ class massive_array
     public $border='';
     public $str= strlen($array);
 
-function tabledrop()
-{
-    for(;*str;++str)
-{
-     echo "+".$border."+";
-}
-}
-function array_elem()
-{
- for(enumeration of array elements){
-    echo "| ".$array." |";
-}
-}
+	public function tabledrop()
+	{
+		for(;*str;++str){
+			echo "+".$border."+";
+		}
+	}
+
+	public function array_elem()
+	{
+ 		for(enumeration of array elements){
+			echo "| ".$array." |";
+		}
+	}
 }
 
 $mass = new (massive_array);
